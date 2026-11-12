@@ -1,0 +1,6 @@
+{
+  "name": "Taskly - Modern Task Management",
+  "description": "A polished, modern to-do list app with frosted glass aesthetics, priority sorting, confetti celebrations, and smooth interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
